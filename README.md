@@ -1,4 +1,4 @@
-Responsive Timetable Application
+###Responsive Timetable Application
 
 Project Overview
 
@@ -62,9 +62,9 @@ The application was well-received for its usability and interactive timetable fe
 
 Deployment
 
-GitHub Repository: Responsive Timetable Application
+GitHub Repository:(https://github.com/rojanagunoori/YogaAnimatedWeb.git)
 
-Live Demo: Deployed App on Netlify
+Live Demo: (https://om-mantra-yoga.netlify.app/)
 
 Key Responsibilities
 
